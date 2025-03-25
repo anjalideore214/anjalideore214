@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anjalideore214
+- 👋 Hi, I’m Anjali Deore
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I had been pursued BSc Computer Science
+- 💞️ I’m looking to collaborate my Skills on Front-End,Back-End and DataBase Management
 - 📫 How to reach me Email:anjalideore214@gmail.com
 - 😄 Pronouns: Anjali
 - ⚡ Fun fact: ... 
